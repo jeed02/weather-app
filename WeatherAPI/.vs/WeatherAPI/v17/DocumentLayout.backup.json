@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\jobs\\weatherfetchjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\jobs\\weatherfetchjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\migrations\\20250331001142_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20250331001142_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|c:\\users\\jd\\documents\\projects\\weather-app\\weatherapi\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{366DD444-060C-4388-BAE3-907F84EF30FF}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherFetchJob.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Jobs\\WeatherFetchJob.cs",
+              "RelativeDocumentMoniker": "backend\\Jobs\\WeatherFetchJob.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Jobs\\WeatherFetchJob.cs",
+              "RelativeToolTip": "backend\\Jobs\\WeatherFetchJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:14:12.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Services\\WeatherService.cs",
+              "RelativeToolTip": "backend\\Services\\WeatherService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:09:24.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:01:10.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:55:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "backend\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:54:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Data\\WeatherDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\WeatherDbContext.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Data\\WeatherDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\WeatherDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:56:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T23:58:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T00:17:22.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250331001142_Init Migration.cs",
+              "DocumentMoniker": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Migrations\\20250331001142_Init Migration.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20250331001142_Init Migration.cs",
+              "ToolTip": "C:\\Users\\JD\\Documents\\Projects\\weather-app\\WeatherAPI\\backend\\Migrations\\20250331001142_Init Migration.cs",
+              "RelativeToolTip": "backend\\Migrations\\20250331001142_Init Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:11:42.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

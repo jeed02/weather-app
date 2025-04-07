@@ -3,7 +3,7 @@
 ## Tech Stack
 
 - **Frontend**: Vue 3, PrimeVue, Tailwind CSS, Axios  
-- **Backend**: ASP.NET Core Web API  
+- **Backend**: ASP.NET Core Web API, Hangfire
 - **Database**: Entity Framework Core with SQL Server (or any EF-supported DB)
 
 ## Setup Instructions
@@ -26,7 +26,7 @@ dotnet run
 
 Ensure your `appsettings.json` is configured with your database connection string.
 
-## 📡 API Endpoints
+## API Endpoints
 
 - `GET /api/weather` - Get all weather records
 - `POST /api/weather` - Add a new weather record

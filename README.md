@@ -3,7 +3,7 @@
 ## Tech Stack
 
 - **Frontend**: Vue 3, PrimeVue, Tailwind CSS, Axios  
-- **Backend**: ASP.NET Core Web API, Hangfire
+- **Backend**: ASP.NET Core Web API, Hangfire (Worker grabs weather data hourly and stores in PostgreSQL database)
 - **Database**: Entity Framework Core with SQL Server (or any EF-supported DB)
 
 ## Setup Instructions
